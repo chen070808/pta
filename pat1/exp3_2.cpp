@@ -61,6 +61,7 @@ void push(PQueue queue,int var)
 	queue->Rear = P;
 }
 
+/*
 int main()
 {
 	int n,i=0,num;
@@ -92,3 +93,5 @@ int main()
 	}
 	cout << i << endl;
 	}	
+
+*/

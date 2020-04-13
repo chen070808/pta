@@ -27,5 +27,8 @@
     <ClCompile Include="exp3_2.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="简单选择排序.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

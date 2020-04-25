@@ -151,6 +151,8 @@
     <ClCompile Include="exp3_2.cpp" />
     <ClCompile Include="pat1.cpp" />
     <ClCompile Include="pat3.cpp" />
+    <ClCompile Include="创建二叉树.cpp" />
+    <ClCompile Include="创建哈夫曼树.cpp" />
     <ClCompile Include="简单选择排序.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

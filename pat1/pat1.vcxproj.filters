@@ -30,5 +30,11 @@
     <ClCompile Include="简单选择排序.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="创建二叉树.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="创建哈夫曼树.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
